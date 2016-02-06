@@ -4,6 +4,7 @@
   "description": "Used for testing githooked, hosted on a heroku dyno",
   "main": "githooked-server.js",
   "scripts": {
+    "start": "node githooked-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
