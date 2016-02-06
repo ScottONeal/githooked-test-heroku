@@ -2,7 +2,7 @@
   "name": "githooked-test-heroku",
   "version": "1.0.0",
   "description": "Used for testing githooked, hosted on a heroku dyno",
-  "main": "index.js",
+  "main": "githooked-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
