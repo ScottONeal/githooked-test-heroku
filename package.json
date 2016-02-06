@@ -1,0 +1,22 @@
+{
+  "name": "githooked-test-heroku",
+  "version": "1.0.0",
+  "description": "Used for testing githooked, hosted on a heroku dyno",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottONeal/githooked-test-heroku.git"
+  },
+  "author": "Scott O'Neal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottONeal/githooked-test-heroku/issues"
+  },
+  "homepage": "https://github.com/ScottONeal/githooked-test-heroku#readme",
+  "dependencies": {
+    "githooked": "git+https://github.com/ScottONeal/githooked.git"
+  }
+}
